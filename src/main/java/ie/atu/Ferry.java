@@ -1,9 +1,9 @@
 package ie.atu;
 
 public class Ferry implements Floatable{            //submarine class must adhere to Floatable contact
-    private int capacity;
-    private String flag;
-    private int length;
+    public int capacity;
+    public String flag;                             //declared as public for inheritance
+    public int length;
 
     public Ferry(int capacity, String flag, int length) {
         this.capacity = capacity;

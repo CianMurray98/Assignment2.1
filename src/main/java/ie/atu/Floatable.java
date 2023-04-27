@@ -1,5 +1,5 @@
 package ie.atu;
 
 public interface Floatable {
-    String printDetails();
+    String printDetails();      //Contract implementing class' must adhere to
 }

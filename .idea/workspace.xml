@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7034f2f6-aff3-4c49-a7f4-dce517ebfb9a" name="Changes" comment="Created Ferry class and @override to implement Floatable">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Trawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Ferry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Ferry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Trawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Trawler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +111,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature4" />
+                        <option value="feature5" />
                       </list>
                     </value>
                   </entry>

@@ -12,6 +12,5 @@ public class Trawler extends Ferry{                         //trawler class inhe
 
     @Override
     public String printDetails() {              //contract from Floatable interface
-        return super.printDetails();
+        return super.printDetails();}
     }
-}

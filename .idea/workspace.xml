@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7034f2f6-aff3-4c49-a7f4-dce517ebfb9a" name="Changes" comment="Created Ferry class and @override to implement Floatable">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableArrayList.java" afterDir="false" />
+    <list default="true" id="7034f2f6-aff3-4c49-a7f4-dce517ebfb9a" name="Changes" comment="Created empty FloatableArrayList class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Ferry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Ferry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Submarine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Submarine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Trawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Trawler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feature5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +56,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="FloatableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ie.atu.FloatableApp" />
+      <module name="Assignment2.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.atu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FloatableApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682590324508</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created empty FloatableArrayList class">
+      <created>1682602512982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682602512982</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +141,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature5" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -129,6 +159,7 @@
     <MESSAGE value="Created Submarine class" />
     <MESSAGE value="Created Submarine class and override to implement Floatable" />
     <MESSAGE value="Created Ferry class and @override to implement Floatable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Ferry class and @override to implement Floatable" />
+    <MESSAGE value="Created empty FloatableArrayList class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created empty FloatableArrayList class" />
   </component>
 </project>

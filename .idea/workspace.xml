@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7034f2f6-aff3-4c49-a7f4-dce517ebfb9a" name="Changes" comment="Created empty FloatableArrayList class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableApp.java" afterDir="false" />
+    <list default="true" id="7034f2f6-aff3-4c49-a7f4-dce517ebfb9a" name="Changes" comment="Created FloatableApp that uses ArrayList and printDetails method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Ferry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Ferry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/FloatableApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Submarine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Submarine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Trawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Trawler.java" afterDir="false" />
     </list>
@@ -127,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682602512982</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created FloatableApp that uses ArrayList and printDetails method">
+      <created>1682968326934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682968326934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +166,7 @@
     <MESSAGE value="Created Submarine class and override to implement Floatable" />
     <MESSAGE value="Created Ferry class and @override to implement Floatable" />
     <MESSAGE value="Created empty FloatableArrayList class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created empty FloatableArrayList class" />
+    <MESSAGE value="Created FloatableApp that uses ArrayList and printDetails method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created FloatableApp that uses ArrayList and printDetails method" />
   </component>
 </project>

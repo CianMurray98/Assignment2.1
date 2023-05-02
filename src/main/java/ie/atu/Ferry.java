@@ -12,7 +12,7 @@ public class Ferry implements Floatable {            //submarine class must adhe
     }
 
     @Override
-    public String printDetails() {                  //Contract from Floatable interface
-        return "\nFerry: \nFerry capacity: " + capacity + "\ncountry of registration: " + flag + "\nlength: " + length;
-    }
+    public String printDetails()                   //Contract from Floatable interface
+        {return "\nFerry: \nFerry capacity: " + capacity + "\ncountry of registration: " + flag + "\nlength: " + length;}
+
     }

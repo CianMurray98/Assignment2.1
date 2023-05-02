@@ -14,7 +14,7 @@ public class Trawler extends Ferry {                         //trawler class inh
     }
 
     @Override
-    public String printDetails() {                          //contract from Floatable interface
-        return "\nTrawler: \nTrawler ID code: " + IDcode + " \ncargo (tonnes): " + cargo + " \nlength (metres): " + super.length + " \ncapacity: " + super.capacity;
-    }
+    public String printDetails()                            //contract from Floatable interface
+    {return "\nTrawler: \nTrawler ID code: " + IDcode + " \ncargo (tonnes): " + cargo + " \nlength (metres): " + super.length + " \ncapacity: " + super.capacity;}
+
     }

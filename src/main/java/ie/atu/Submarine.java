@@ -9,6 +9,7 @@ public class Submarine implements Floatable{        //submarine class must adher
         this.year = year;
     }
     @Override
-    public String printDetails(){                  //Contract from Floatable interface
-    return "\nSubmarine: \nName: " + name + "\nYear: " + year;}
+    public String printDetails()                  //Contract from Floatable interface
+        {return "\nSubmarine: \nName: " + name + "\nYear: " + year;}
+
     }
